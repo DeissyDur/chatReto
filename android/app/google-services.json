@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297853010759",
+    "project_id": "reto3-chat-cd380",
+    "storage_bucket": "reto3-chat-cd380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297853010759:android:ee99cadba313f98e75c262",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297853010759-uanuq5rvdlk54gkf8dfq883urkti2je6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvws2khkNMqNkEIIptWMuBsYJrFlsmXlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297853010759-uanuq5rvdlk54gkf8dfq883urkti2je6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
