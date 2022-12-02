@@ -1,16 +1,13 @@
-# chat
+NCR2286_G4_C4
 
-A new Flutter project.
+Desarrollo del reto 3 del ciclo 4 de Desarrollo Móvil, en el que se crea una aplicación de chat que permite la interacción entre varios usuarios.
 
-## Getting Started
+Equipo 4:
 
-This project is a starting point for a Flutter application.
+Deissy Durán Rodríguez
+Hamel Perez Benavides
+Jeckson Sampayo Mendoza
+Juan Campos Barrera
+Miguel Chavez
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GitHub: https://github.com/DeissyDur/chatReto
