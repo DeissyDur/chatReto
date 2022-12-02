@@ -11,3 +11,7 @@ Equipo 4:
 - Miguel Chavez
 
 GitHub: https://github.com/DeissyDur/chatReto
+
+
+https://user-images.githubusercontent.com/113394394/205224566-fd87dbe9-5d4f-4b44-8f8a-cc57e9dd2c09.mp4
+
